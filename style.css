@@ -2,9 +2,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Prompt:wght@100;500&display=swap");
 
 .line {
-  width: 80%;
+  width: 100%;
   height: 2px;
-  background-color: #000;
+  background-color: rgb(157, 188, 255);
 }
 
 body {
