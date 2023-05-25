@@ -41,6 +41,8 @@ video {
   font-weight: bold;
   font-size: 18px;
   margin-top: 15px;
+  transition: 0.5s;
+  display: block;
 }
 
 .center {
