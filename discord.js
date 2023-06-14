@@ -1,6 +1,6 @@
 async function copydiscord() {
   try {
-    await navigator.clipboard.writeText("luma#9333");
+    await navigator.clipboard.writeText("luma_vpk");
     ds.style.display = "block";
     setTimeout("ds.style.display='none'", 2000);
   } catch (err) {
