@@ -9,7 +9,7 @@ async function copydiscord() {
 }
 async function copydiscord1() {
   try {
-    await navigator.clipboard.writeText("Darknessing#2124");
+    await navigator.clipboard.writeText(".darknessing");
     ds.style.display = "block";
     setTimeout("ds.style.display='none'", 2000);
   } catch (err) {
